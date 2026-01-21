@@ -10,7 +10,7 @@ This repo contains the backend for the job posting and candisate management appl
 - Java 17
 - Spring
 - Maven
-- PostgreSQL
+- PostgreSQL (Docker)
 - Swagger
   
 
